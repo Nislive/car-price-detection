@@ -39,3 +39,10 @@ The plot below shows predicted vs. actual car prices:
 
 ![Predicted vs Actual](results.png)
 
+## Usage
+
+Run the project by simply executing:
+
+```bash
+python main.py
+
