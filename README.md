@@ -17,7 +17,7 @@ source .venv/bin/activate      # Windows: .venv\Scripts\activate
 
 # Install required packages
 pip install -r requirements.txt
-
+```
 ## Results
 
 After training the linear regression model, the following results were obtained:
@@ -48,4 +48,4 @@ Run the project by simply executing:
 
 ```bash
 python main.py
-
+```
