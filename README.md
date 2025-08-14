@@ -4,7 +4,7 @@ This project aims to predict car prices using a **linear regression model** trai
 
 ## Dataset
 - **Source:** Kaggle – Car Price Prediction Dataset  
-- **Features:** `car_ID`, `CarName`, `fueltype`, `enginesize`, `horsepower`, `citympg`, `highwaympg`, `price`, etc.  
+- **Features:** "CarName" (dummy), "fueltype", "aspiration", "doornumber", "carbody" (dummy), "drivewheel" (dummy), "enginesize", "horsepower", "citympg", "highwaympg", etc.  
 - **Target variable:** `price`
 
 ## Installation
