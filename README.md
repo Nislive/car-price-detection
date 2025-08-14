@@ -39,6 +39,9 @@ The plot below shows predicted vs. actual car prices:
 
 ![Predicted vs Actual](results.png)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Usage
 
 Run the project by simply executing:
