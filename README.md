@@ -1,4 +1,4 @@
-#Car Price Prediction with Linear Regression
+## Car Price Prediction with Linear Regression
 
 This project aims to predict car prices using a **linear regression model** trained on the [Car Price Prediction Dataset](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction).  
 
